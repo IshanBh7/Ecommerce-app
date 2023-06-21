@@ -24,13 +24,13 @@ Ecommerce-App is a full-stack e-commerce application developed using React, Redu
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/jaig10/Ecommerce-App.git
+git clone https://github.com/IshanBh7/Ecommerce-app.git
 ```
 
 2. Change to the project directory:
 
 ```shell
-cd Ecommerce-App
+cd Ecommerce-app
 ```
 
 3. Install the dependencies:
